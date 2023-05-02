@@ -3,7 +3,8 @@
 <div>          
           <h1>Oi 👋</h1>
 </div>
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tak3sh1&show_icons=true&bg_color=00000000)](https://github.com/Tak3sh1/github-readme-stats#gh-dark-mode-only)
+         src= https://github-readme-stats.vercel.app/api?username=Tak3sh1&show_icons=true&bg_color=00000000 />
+          src= https://github.com/Tak3sh1/github-readme-stats#gh-dark-mode-only />
 <div>
        
           
