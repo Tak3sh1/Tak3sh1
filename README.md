@@ -3,7 +3,7 @@
 <div>          
           <h1>Oi 👋</h1>
 </div>
-          
+          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tak3sh1&show_icons=true&bg_color=00000000)
 <div>
        
           
