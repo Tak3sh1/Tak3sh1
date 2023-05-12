@@ -7,7 +7,7 @@
 
 
 
-
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1&layout=compact&langs_count=7&theme=react" />
 
 <div>
 
@@ -20,7 +20,9 @@
 
 </div>
           
-<h5>Tecnologias: </h5>
+          
+<h3>Tecnologias: </h3>
+          <div>
 
 <div>
         
@@ -37,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="30" height="30"/>
 </div>
           
-## Me encontre em:
+<h3> Me encontre em: </h3>
 <div>          
           <a href="https://www.linkedin.com/in/twkeshi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
               <a href="https://www.instagram.com/in/takeshi.designer" target=_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
