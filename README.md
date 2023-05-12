@@ -13,10 +13,9 @@
 
   <a href="https://github.com/Tak3sh1">
 
-  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Tak3sh1&theme=react&include_all_commits=true&count_private=true"/>
+ 
+  
 
-            </div>
-          <div>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1 &layout=compact&langs_count=7&theme=react" />
 
 </div>
