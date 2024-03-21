@@ -24,7 +24,7 @@
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="90" height="30"/>
      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="90" height="30"/>
      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="160" height="30"/>
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="160" height="30"/>
+     
    
      
         
@@ -32,8 +32,9 @@
 <h3> Me encontre em: </h3>
 <div>
      <a href="https://www.linkedin.com/in/twkeshi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ==" target=_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ==" target=_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="160" height="30"/></a>
+     <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ=="target=_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ=="target=_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="160" height="30"/></a>
+       <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ=="target=_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="160" height="30"/></a>
      
 </div>
 </html>
