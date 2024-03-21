@@ -5,7 +5,7 @@
 <br>
 <div>
      <img src="https://github.com/Tak3sh1/Tak3sh1/assets/115012811/e0b39d62-ff63-46ae-9dad-74bc7976dcd2">
-     <img src="https://github.com/Tak3sh1/GitSpectrumCode/assets/163693891/96a80e48-d369-4f80-9478-afbe6423f1b4"  width="1000" height="370" >
+     <img src="https://github.com/Tak3sh1/Tak3sh1/assets/163693891/96a80e48-d369-4f80-9478-afbe6423f1b4"  >
 </div>
 <br>
      <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1&layout=compact&langs_count=7&theme=react" />
