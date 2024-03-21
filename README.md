@@ -38,10 +38,5 @@
       <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ=="target=_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
        <a href="https://instagram.com/takeshi.designer?igshid=NTc4MTIwNjQ2YQ=="target=_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
 </div>
-          <style>
-               body{
-                    background-color: "purple";
-               }
-          </style>
      </body>
 </html>
