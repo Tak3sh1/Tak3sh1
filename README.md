@@ -5,7 +5,7 @@
 </div>
 <br>
 <div>
-     <img src="https://github.com/Tak3sh1/Tak3sh1/assets/115012811/e0b39d62-ff63-46ae-9dad-74bc7976dcd2"> 
+     <img src="https://github.com/Tak3sh1/Tak3sh1/assets/115012811/f62fbe38-d57c-4707-8f03-9c3c6ee66680"> 
 </div>
 <br>
 <div>
