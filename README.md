@@ -6,7 +6,6 @@
           
 <h3>Developer with experience in C# game development and web systems using JavaScript and its frameworks.
      Focused on optimization, interactivity, and code efficiency. Also skilled in UI design to ensure usability and visual identity.</h3>
-<br>
 
    <div>       
 <h3>Technologies:</h3>
