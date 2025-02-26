@@ -3,15 +3,11 @@
 <div>          
      <h1>Hello☕</h1>
 </div>
+          
 <h3>Developer with experience in C# game development and web systems using JavaScript and its frameworks.
      Focused on optimization, interactivity, and code efficiency. Also skilled in UI design to ensure usability and visual identity.</h3>
 <br>
-          
-<div>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-          
+
    <div>       
 <h3>Technologies:</h3>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,7 +17,6 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
 </div>       
 
 <h3>Database:</h3>   
@@ -54,10 +49,11 @@
 <div>
      <a href= "professionaltakeshi@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      <a href="https://www.linkedin.com/in/twkeshi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://www.instagram.com/darkdevdesign?igsh=MXhweXN4cnk4OW83eQ=="target=_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.instagram.com/twkeshiaoki" target=_blank"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
        <a href="https://github.com/Tak3sh1"target=_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-       
-     
+</div>
+<div>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
      </body>
 </html>
