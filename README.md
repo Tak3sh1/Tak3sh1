@@ -3,6 +3,8 @@
 <div>          
      <h1>Oi☕</h1>
 </div>
+<h3>Developer with experience in C# game development and web systems using JavaScript and its frameworks.
+     Focused on optimization, interactivity, and code efficiency. Also skilled in UI design to ensure usability and visual identity.</h3>
 <br>
 <div>
      <img src="https://github.com/Tak3sh1/Tak3sh1/assets/115012811/f62fbe38-d57c-4707-8f03-9c3c6ee66680"> 
