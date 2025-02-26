@@ -6,7 +6,7 @@
 <h3>Developer with experience in C# game development and web systems using JavaScript and its frameworks.
      Focused on optimization, interactivity, and code efficiency. Also skilled in UI design to ensure usability and visual identity.</h3>
 <br>
-<br>
+          
 <div>
     <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tak3sh1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
