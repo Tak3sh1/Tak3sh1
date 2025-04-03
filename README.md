@@ -10,7 +10,7 @@
 <h3>Technologies:</h3>
    <div>       
         
-   [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp.java,php,mysql,ps,git,unity,vscode,visualstudio,figma)](https://skillicons.dev)<br/>
+   [![SkillIcons](https://skillicons.dev/icons?i=js,html,cpp.java,css,py,cs,php,mysql,ps,git,unity,vscode,visualstudio,figma)](https://skillicons.dev)<br/>
 </div>       
 
 <h3> Contact: </h3>
