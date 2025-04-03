@@ -9,7 +9,7 @@
 
    <div>       
 <h3>Technologies:</h3>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 </div>       
 
 <h3>In learning:</h3>   
