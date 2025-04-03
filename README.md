@@ -10,14 +10,8 @@
 <h3>Technologies:</h3>
    <div>       
         
-   [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,figma)](https://skillicons.dev)<br/>
+   [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,cs,cpp.java,php,mysql,ps,git,unity,vscode,visualstudio,figma)](https://skillicons.dev)<br/>
 </div>       
-
-<h3>In learning:</h3>   
-<div>
-
-   [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-</div>
 
 <h3> Contact: </h3>
 <div>
