@@ -6,8 +6,6 @@
           
 <h3>Developer with experience in C# game development and web systems using JavaScript and its frameworks.
      Focused on optimization, interactivity, and code efficiency. Also skilled in UI design to ensure usability and visual identity.</h3>
-
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tak3sh1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
      
 <h3>Technologies:</h3>
    <div>       
